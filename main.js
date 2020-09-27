@@ -32,4 +32,4 @@ client.on('message', message =>{
 client.login();
 
 
-/*Made by Tiago */
+/*Made by Tiago all right reserved to me*/
